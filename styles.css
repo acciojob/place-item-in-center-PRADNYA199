@@ -3,6 +3,9 @@
 .holder{
 	width:100%;
 	height:100%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
 	
 }
 .item-1{
@@ -10,5 +13,5 @@
 	height:100px;
 	background-color:red;
 	justify-content:center;
-	align-items:center:
+	align-items:center;
 }
